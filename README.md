@@ -9,5 +9,5 @@ Trend Strategies, market neutral strategies, and mean-reversion strategies in bo
 
 PS
 
-This code is meant for educational purposes only and is my way of expressing my thoughts. 
+This code is meant for educational purposes only and is intended everyone if they find it useful. 
 
