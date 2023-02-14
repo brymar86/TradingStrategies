@@ -7,3 +7,7 @@ Simply to take interesting strategies and express them in OOP python format or c
 
 Trend Strategies, market neutral strategies, and mean-reversion strategies in both equities and crypto are my areas of interest.  Eventually I will include derivative strategies by early 2024.   Please contact me with any questions at bryanmarty86@gmail.com
 
+PS
+
+This code is meant for educational purposes only and is my way of expressing my thoughts. 
+
