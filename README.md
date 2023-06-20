@@ -11,3 +11,10 @@ PS
 
 This code is meant for educational purposes only and is intended everyone if they find it useful. 
 
+Currently:
+BInance Data
+nasdaq_2019.py
+Cascade_Momentum (due to nasdaq_2019) 
+
+Have been deprecated OR the datasource that was scraped has chagned their web pages.  The code is accurate given the datasources would be available.  Scripts leverageing BinanceData Unfortunatley will not work.  The tecniques for handling survivorship bias in nasdaw_2019 will work, one just needs to get the historical data. The real value is how the boolean masking works in filtering the dataframe with the relevant symbols that would have been reflected. 
+
