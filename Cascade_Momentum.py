@@ -7,6 +7,8 @@ Created on Thu Jan 26 15:06:49 2023
 
 This class was inspired by the functional CODE algovibes YouTube Channel provided
 
+UPDATE Aug/6/2023: This will break as the site used to handle survivorship biased changed their website so we can't scrape it.
+
 """
 
 
