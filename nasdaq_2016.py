@@ -4,6 +4,8 @@
 Created on Mon Feb  6 14:41:58 2023
 
 @author: Blacksheep, CFA MFE
+
+THEY CHANGED THE WEBSITE, THIS WILL NOW BREAK. UPDATE 2023
 """
 
  #!/usr/bin/env python3
