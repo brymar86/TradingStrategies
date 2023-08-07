@@ -173,8 +173,7 @@ class CascadeMomentum:
         for date in mtl[mtl.index >= pd.to_datetime(start_date)].index:
             pf_per = self.point_performance(date)
             rets.append(pf_per)
-        
-        # [georgi] As we limited the mtl data to dates after the start_date I added the same for qqq
+
         qqq = qqq[qqq.index >= pd.to_datetime(start_date)]
         
 
@@ -186,7 +185,7 @@ class CascadeMomentum:
         plt.ylabel('1+R base level')
         plt.title('Cumulative Return')
         plt.legend()
-        plt.show()  # [georgi] I added this line to show the plot
+        plt.show()  
 
 
  
